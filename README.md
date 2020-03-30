@@ -1,6 +1,6 @@
 # Progetto Tecnologie Web, "TumbList"
 
-![](img/w3c_html5.png)![](img/w3c_css3.png)
+![](code/img/w3c_html5.png)![](code/img/w3c_css3.png)
 
 Progetto per il corso di Tecnologie Web per la laurea triennale in Informatica presso [Università degli Studi di Padova](https://www.unipd.it/), inverno 2018.
 
