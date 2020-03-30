@@ -1,6 +1,6 @@
 # Progetto Tecnologie Web, "TumbList"
 
-![](code/img/w3c_html5.png)![](code/img/w3c_css3.png)
+![](img/w3c_html5.png)![](img/w3c_css3.png)
 
 Progetto per il corso di Tecnologie Web per la laurea triennale in Informatica presso [Università degli Studi di Padova](https://www.unipd.it/), inverno 2018.
 
@@ -10,6 +10,11 @@ A scopo puramente didattico il sito è stato costruito da zero senza l'utilizzo 
 
 Tutte le pagine del sito passano il test del [Validatore di Markup di W3C](https://validator.w3.org/) e del [Validatore di CSS di W3C](https://jigsaw.w3.org/css-validator/).
 Le pagine sono inoltre strutturate in modo da essere correttamente ripercorribili da utenti non vedenti tramite screen reader, funzionanti anche in mancanza di Javascript e in generale applicano criteri di accessibilità imposti dai vincoli del corso.
+
+## Contributori
+
+- [dam-cav](https://github.com/dam-cav)
+- [ffiora](https://github.com/ffiora)
 
 ## Tecnologie utilizzate
 
